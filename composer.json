@@ -1,0 +1,11 @@
+{
+    "name": "beaumind/jdate",
+    "description": "a simple laravel wrapper for jdate functions",
+    "authors": [
+        {
+            "name": "A.Hasani",
+            "email": "a.hassani.sbu@gmail.com"
+        }
+    ],
+    "require": {}
+}
