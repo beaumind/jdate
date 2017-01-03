@@ -1,5 +1,5 @@
 # jdate
-A simple Laravel Wrapper for the jdate functions.
+A simple Laravel Wrapper for [Alireza-h](http://github.com/alireza-h) jdate class.
 
 ## Installation
 
