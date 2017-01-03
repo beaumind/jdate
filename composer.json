@@ -8,6 +8,12 @@
             "email": "a.hassani.sbu@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/beaumind/jdate"
+        }
+    ],
     "keywords": ["Laravel","Date","Datetime","Jalali", "Beaumind", "Jdate"],
     "require": {
         "php": ">=5.4",
