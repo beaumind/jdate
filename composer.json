@@ -9,13 +9,7 @@
         }
     ],
     "keywords": ["Laravel","Date","Datetime","Jalali", "Beaumind", "Jdate"],
-    "require": {
-        "php": ">=5.4",
-        "illuminate/support": "^5.0"
-    },
-    "require-dev" : {
-        "phpunit/phpunit": "~4.0"
-    },  
+
     "autoload": {
         "psr-4": {
             "Beaumind\\Jdate\\": "src"
