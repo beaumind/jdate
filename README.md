@@ -1,4 +1,6 @@
-# jdate
+# laravel jdate
+
+- This package compatible with Laravel `>=5`
 A simple Laravel Wrapper for [Alireza-h](http://github.com/alireza-h) jdate class.
 
 ## Installation
